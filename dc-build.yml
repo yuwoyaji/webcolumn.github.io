@@ -1,9 +1,0 @@
-version: '3.8'
-services:
-  app:
-    image: jekyll/jekyll:pages
-    command: jekyll build
-    volumes:
-      - $PWD:/srv/jekyll # replace $PWD if necessary.
-    ports:
-      - 4000:4000

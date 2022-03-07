@@ -1,6 +1,6 @@
 logo: # add logo name
 title: Webデザイン科の隠れ部屋
-description: 職業訓練Webデザイン科のポートフォリオ制作のWebサイト一覧です。
+description: ''
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://webcolumn.github.io" # the base hostname & protocol for your site, e.g. http://example.com

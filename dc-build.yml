@@ -4,6 +4,6 @@ services:
     image: jekyll/jekyll:pages
     command: jekyll build
     volumes:
-      - $PWD:/srv/jekyll # replace $PWD if necessary.
+      - $PWD/docs:/srv/jekyll # replace $PWD if necessary.
     ports:
       - 4000:4000

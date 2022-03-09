@@ -1,0 +1,5 @@
+---
+title: "君のとなりに"
+img: sio2plus.png
+exturl: https://sio2plus.web.fc2.com
+---

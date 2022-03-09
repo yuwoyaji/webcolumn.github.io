@@ -1,0 +1,5 @@
+---
+title: "ハニワ土偶が行く!函館観光"
+img: mituek.png
+exturl: https://mituek.web.fc2.com
+---

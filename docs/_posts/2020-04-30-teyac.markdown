@@ -1,0 +1,5 @@
+---
+title: "みほんデンタルクリニック"
+img: teyac.png
+exturl: https://teyac.web.fc2.com
+---

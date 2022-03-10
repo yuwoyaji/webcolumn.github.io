@@ -1,0 +1,5 @@
+---
+title: "データ活用２級 知識練習"
+img: designka.png
+exturl: https://designka.web.fc2.com
+---

@@ -1,0 +1,5 @@
+---
+title: "bakeryCornet"
+img: monmon88.png
+exturl: https://monmon88.web.fc2.com
+---

@@ -1,0 +1,5 @@
+---
+title: "株式会社テイク"
+img: 100waysoflife.png
+exturl: https://100waysoflife.web.fc2.com
+---

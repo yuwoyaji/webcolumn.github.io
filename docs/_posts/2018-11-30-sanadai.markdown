@@ -1,0 +1,5 @@
+---
+title: "卒業制作"
+img: sanadai.png
+exturl: https://sanadai.web.fc2.com
+---

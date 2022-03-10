@@ -1,0 +1,5 @@
+---
+title: "My Photo Gallery"
+img: wdhd1902na.png
+exturl: https://wdhd1902na.web.fc2.com
+---

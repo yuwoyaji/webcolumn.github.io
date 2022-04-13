@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   app:
-    image: jekyll/jekyll:pages
+    image: jekyll/jekyll:4.2.0
     command: jekyll build
     volumes:
       - $PWD/docs:/srv/jekyll # replace $PWD if necessary.

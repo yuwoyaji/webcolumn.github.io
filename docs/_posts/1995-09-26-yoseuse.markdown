@@ -1,0 +1,5 @@
+---
+title: "有限会社ヨーセー・ユースウェアー"
+img: yoseuse.png
+exturl: https://yose.co.jp
+---

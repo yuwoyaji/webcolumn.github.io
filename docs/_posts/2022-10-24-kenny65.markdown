@@ -1,5 +1,0 @@
----
-title: "Designer Hideaki kemmotsu"
-img: kenny65.png
-exturl: http://kenny65.html.xdomain.jp
----

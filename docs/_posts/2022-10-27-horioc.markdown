@@ -1,5 +1,0 @@
----
-title: "はり鍼灸院 -OFFICIAL HOMEPAGE-"
-img: horieoc.png
-exturl: http://horieoc.html.xdomain.jp
----
